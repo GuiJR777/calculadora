@@ -1,0 +1,4 @@
+Kivy==2.0.0
+Kivy-Garden==0.1.4
+kivymd @ https://github.com/kivymd/KivyMD/archive/master.zip
+black==21.11b1
